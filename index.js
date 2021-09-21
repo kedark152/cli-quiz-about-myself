@@ -27,6 +27,8 @@ var qna = [
     answer: "Football"},
   { question: "Q. Which city do I live in?\n",
     answer: "Mumbai"},
+  { question: "Q. What is my favourite food?\n",
+    answer: "Dosa"}
 ]
 
 for(i=0;i<qna.length;i++){
